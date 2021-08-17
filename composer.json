@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twbs/bootstrap": "^5.0",
+        "components/font-awesome": "^5.15",
+        "components/jquery": "^3.5"
+    }
+}
